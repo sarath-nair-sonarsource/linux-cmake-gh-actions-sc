@@ -3,7 +3,7 @@
 using namespace std;
 
 void initialize(char* arr[]){
-  court << "arr came";
+  cout << "arr came";
 }
 
 int main(int argc, char* argv[]) {
