@@ -1,4 +1,4 @@
-= C++ example project scanned on SonarCloud using GitHub Actions
+= C++ example project scanned on SonarCloud using GitHub Actions - 1
 // URIs:
 :uri-qg-status: https://sonarcloud.io/dashboard?id=sonarsource-cfamily-examples_linux-cmake-gh-actions-sc
 :img-qg-status: https://sonarcloud.io/api/project_badges/measure?project=sonarsource-cfamily-examples_linux-cmake-gh-actions-sc&metric=alert_status
