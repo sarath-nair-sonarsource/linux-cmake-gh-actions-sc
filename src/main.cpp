@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void initialize(char* arr[]){
+  court << "arr came";
+}
+
 int main(int argc, char* argv[]) {
   int num = argc - 1;
   char array[10];
