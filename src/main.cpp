@@ -4,6 +4,9 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
   int num = argc - 1;
+  char array[10];
+  initialize(array);
+  void *pos = memchr(array, '@', 42);
 
   if (num == 0) {
     cout << "No arguments provided\n";
