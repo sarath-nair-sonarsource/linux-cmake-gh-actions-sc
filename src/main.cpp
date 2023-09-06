@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void initialize(char* arr[]){
+void initialize(){
   cout << "arr came";
 }
 
